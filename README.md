@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fngx_cache_purge.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fngx_cache_purge?ref=badge_shield)
+
 About
 =====
 `ngx_cache_purge` is `nginx` module which adds ability to purge content from
@@ -169,3 +171,7 @@ License
 See also
 ========
 - [ngx_slowfs_cache](http://github.com/FRiCKLE/ngx_slowfs_cache).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fngx_cache_purge.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fngx_cache_purge?ref=badge_large)
